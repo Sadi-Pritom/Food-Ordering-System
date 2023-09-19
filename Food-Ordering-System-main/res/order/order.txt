@@ -1,0 +1,9 @@
+Token : 0
+Order type: Parcel
+Name: Misha
+------------------------------------
+1.Beef Pepperoni Pizza(2)    :   50.0TK
+2.Icecream Sundaes(1)    :   200.0TK
+3.Grape Juice(4)    :   80.0TK
+------------------------------------
+TOTAL COST:    330.0TK

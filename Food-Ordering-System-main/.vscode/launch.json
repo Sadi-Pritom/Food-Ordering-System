@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoginUI",
+            "request": "launch",
+            "mainClass": "ui.LoginUI",
+            "projectName": "project v1.4 - Copy_short_7e9edabc"
+        }
+    ]
+}
